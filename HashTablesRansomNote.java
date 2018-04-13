@@ -65,10 +65,6 @@ public class HashTablesRansomNote {
     		
     	}
     	
-    	for(String s:magazineMap.keySet()) {
-    		System.out.println("String "+s+" value "+magazineMap.get(s));
-    	}
-    	
 		return true;    
     }
 
