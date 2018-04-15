@@ -23,7 +23,6 @@ public class QueuesATaleOfTwoStacks {
         		}
         	}
         	return stackOldestOnTop.peek();
-        	
         }
 
         // Dequeue - removing the elements from the seconds stack.
